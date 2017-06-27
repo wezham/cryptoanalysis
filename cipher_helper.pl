@@ -1,3 +1,4 @@
+#test
 #!/usr/bin/perl -w
 use POSIX;
 $string_text="";
